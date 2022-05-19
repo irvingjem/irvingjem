@@ -1,5 +1,12 @@
-### Hi there 👋
+# Hi there, I'm Jem!👋
 
+### A Little About Me
+- 🔭 I am currently finishing up a Bootcamp through the University of Oregon for Full Stack Coding
+- 🖥️ Looking forward I am hoping to do more work in the software world with a focus on back-end coding
+- 🧠 The next language I want to learn is C++
+- 🏫 I have a BFA in Graphic Design 
+
+## Thanks For Stopping By 😄
 <!--
 **irvingjem/irvingjem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
