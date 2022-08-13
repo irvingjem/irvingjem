@@ -5,6 +5,7 @@
 - 🖥️ Looking forward I am hoping to do more work in the software world with a focus on back-end coding
 - 🧠 The next language I want to learn is Python
 - 🏫 I have a BFA in Graphic Design 
+- 🔭 I’m currently working on Learning python and building a discord bot!
 
 ## Thanks For Stopping By 😄
 LinkedIn: https://www.linkedin.com/in/jem-irving/
