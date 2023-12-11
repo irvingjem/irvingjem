@@ -1,10 +1,10 @@
 # Hi there, I'm Jem!👋
 
 ### A Little About Me
-- 🔭 I am currently finishing up a Bootcamp through the University of Oregon for Full Stack Coding
-- 🖥️ Looking forward I am hoping to do more work in the software world with a focus on back-end coding
+- 🔭 I am currently working as a Web Specialist at R\West using Google Analytics to help create great web experiences
+- 🖥️ Looking forward I am always looking for projects to build up my skillsets
 - 🧠 The next language I want to learn is Python
-- 🏫 I have a BFA in Graphic Design 
+- 🏫 I have a BFA in Graphic Design & A Certificate from the University of Oregon for Full Stack Coding
 - 🔭 I’m currently working on learning Python and building a Discord bot!
 
 ## Thanks For Stopping By 😄
