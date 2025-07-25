@@ -1,7 +1,7 @@
 # Hi there, I'm Jem!👋
 
 ### A Little About Me
-- 🔭 I am currently working as a Web Specialist at R\West using Google Analytics to help create great web experiences
+- 🔭 I am currently working as a Digital Analyst using Tealium to help create great web experiences
 - 🖥️ Looking forward I am always looking for projects to build up my skillsets
 - 🧠 The next language I want to learn is Python
 - 🏫 I have a BFA in Graphic Design & A Certificate from the University of Oregon for Full Stack Coding
